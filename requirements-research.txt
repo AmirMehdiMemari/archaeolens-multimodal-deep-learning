@@ -1,0 +1,7 @@
+-r requirements.txt
+scikit-learn==1.9.1
+matplotlib==3.11.2
+scipy==1.18.1
+tqdm==4.67.1
+requests==2.33.1
+ipykernel==7.2.0

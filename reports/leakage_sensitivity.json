@@ -1,0 +1,11 @@
+{
+    "original_validation_count": 150,
+    "filtered_validation_count": 149,
+    "train_validation_url_overlaps": 1,
+    "test_url_overlaps": 0,
+    "original_validation_accuracy": 0.8733333333333333,
+    "original_validation_macro_f1": 0.8723482971992617,
+    "filtered_validation_accuracy": 0.87248322147651,
+    "filtered_validation_macro_f1": 0.8718278704493267,
+    "note": "Sensitivity analysis only. The original checkpoint was selected using the full validation dataset."
+}

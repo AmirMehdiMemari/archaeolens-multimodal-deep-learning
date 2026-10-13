@@ -1,0 +1,11 @@
+Metadata records: 1000
+Valid images: 1000
+Invalid images: 0
+Exact duplicate groups: 5
+vase: 200
+bowl: 200
+jar: 200
+figurine: 200
+amulet: 200
+Invalid records: []
+Duplicate groups: [['571491', '571472', '571490', '560952', '571460', '559334'], ['587565', '551038'], ['575743', '575740'], ['556087', '556086', '558787'], ['558521', '558518']]

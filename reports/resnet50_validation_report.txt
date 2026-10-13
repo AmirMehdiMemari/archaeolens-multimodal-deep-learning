@@ -1,0 +1,11 @@
+              precision    recall  f1-score   support
+
+        vase     0.7000    0.7000    0.7000        30
+        bowl     0.9677    1.0000    0.9836        30
+         jar     0.7143    0.6667    0.6897        30
+    figurine     0.8438    0.9000    0.8710        30
+      amulet     0.8276    0.8000    0.8136        30
+
+    accuracy                         0.8133       150
+   macro avg     0.8107    0.8133    0.8116       150
+weighted avg     0.8107    0.8133    0.8116       150

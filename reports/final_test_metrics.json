@@ -1,0 +1,10 @@
+{
+    "model": "CLIP ViT-B/32 Linear Probe",
+    "test_samples": 150,
+    "gallery_samples": 700,
+    "accuracy": 0.84,
+    "macro_f1": 0.8402255180448558,
+    "retrieval_top1": 0.8199999928474426,
+    "retrieval_hit_at_5": 0.9666666388511658,
+    "retrieval_precision_at_5": 0.7586666941642761
+}
